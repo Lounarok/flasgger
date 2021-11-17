@@ -3,6 +3,11 @@ Changelog
 
 These are all the changes in Flasgger since the 0.6.0 release
 
+0.9.5.1
+-----
+- Remove top level definitions on openapi3.
+- Fix parse validation for post.
+
 0.9.5
 -----
 - 'swag_from' supports 'pathlib.Path'

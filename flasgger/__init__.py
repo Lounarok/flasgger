@@ -1,8 +1,9 @@
 
-__version__ = '0.9.5'
-__author__ = 'Zixuan Rao'
-__email__ = 'billrao@me.com'
+__version__ = '0.9.5.lou2'
+__author__ = 'Louis Go'
+__email__ = 'wulouis0511@gmail.com'
 
+# A temporary version for test.
 # Based on works of Bruno Rocha and the Flasgger open source community
 
 
