@@ -29,7 +29,7 @@ def grep(attrname):
 
 
 setup(
-    name='flasgger',
+    name='louFlasgger',
     version=grep('__version__'),
     url='https://github.com/Lounarok/flasgger/',
     license='MIT',
